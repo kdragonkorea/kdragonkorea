@@ -21,7 +21,15 @@ Here are some ideas to get you started:
 |   |   |   |   |   |
 |   |   |   |   |   |
 
+# Tech Stack
+> Techs that I've used at leat once
+* Python
+* Mysql
+* Java
+
+
 # Contact
-:email: morenmore6340@gmail.com
+* :email: morenmore6340@gmail.com
+* :smile: https://www.instagram.com/kdragonkorea/
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdragonkorea%2Fkdragonkorea&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
