@@ -1,6 +1,4 @@
-#### Hi there 👋 
-#### I’m currently learning data analysis skills 🌱
-
+### Hi there, I’m currently learning data analysis skills 👋
 
 <!--
 **kdragonkorea/kdragonkorea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
