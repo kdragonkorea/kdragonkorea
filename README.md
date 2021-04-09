@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 
 # Tech Stack
 > Techs that I've used at leat once
+* Django
+* Jupyter
 * Python
-* Mysql
-* Java
-
+* R
+* JavaScript
 
 # Contact
 * :email: morenmore6340@gmail.com
