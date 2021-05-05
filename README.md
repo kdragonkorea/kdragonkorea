@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 -->
 
 
-# Career
+# 경력(Career)
 |기간   |회사명   |역할   |업무   |참고자료   |
 |---|---|---|---|---|
 | 2017.09 ~ 2020.11 (3년3개월) |(주)와그 |비즈니스 매니저 |00업무 |URL |
 | 2016.09 ~ 2017.08 (1년) |(주)투어로 |여행사 OP |00업무 |URL |
 | 2009.12 ~ 2014.08 (4년8개월) |국방부 |공병 부소대장, 행정지원관 |00업무 |URL |
 
-# Tech Stack
+# 기술스택(Tech Stack)
 > Techs that I've used at leat once
 * Django
 * Jupyter
@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 * R
 * JavaScript
 
-# Contact
+# 연락처(Contact)
+* :blog: https://kdragonkorea.github.io/
 * :email: morenmore6340@gmail.com
 * :smile: https://www.instagram.com/kdragonkorea/
 
