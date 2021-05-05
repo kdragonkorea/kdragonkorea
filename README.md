@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 * JavaScript
 
 # 연락처(Contact)
-* :blog: https://kdragonkorea.github.io/
+* blog: https://kdragonkorea.github.io/
 * :email: morenmore6340@gmail.com
 * :smile: https://www.instagram.com/kdragonkorea/
 
